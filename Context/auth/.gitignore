@@ -1,0 +1,18 @@
+# AWS Credentials - NEVER commit these to git!
+aws-credentials.txt
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 

@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "DatabasePassword",
+    "ParameterValue": "LifeLineSecureDB2024!"
+  },
+  {
+    "ParameterKey": "JWTSecret",
+    "ParameterValue": "LifeLineJWTSecret2024SecureKeyForAuthentication"
+  }
+] 
